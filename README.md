@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NLP-Sentiment and Recommendation System (Final Project for EECS-731 Data Science)
 
 
@@ -220,3 +221,7 @@ References
 [4] https://github.com/bentrevett/pytorch-sentiment-analysis
 
 [5] https://github.com/tlkh/text-emotion-classification
+=======
+# NLP-Sentiment-Analysis
+Sentiment Analysis using Machine Learning and NLP
+>>>>>>> c29519a222ee4b563d2f70ce9094de226f08f6b0
